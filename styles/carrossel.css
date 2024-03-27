@@ -31,7 +31,7 @@
 }
 
 .card__descrição-imagem {
-    margin-bottom:.5em;
+    margin-bottom:0.5em;
 }
 
 .card__descrição {
@@ -49,10 +49,6 @@
     font-weight: 700;
     font-size: 18px;
     margin: 1em 0;
-}
-
- {
-    
 }
 
 .descrição__texto {  
